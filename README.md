@@ -1,6 +1,4 @@
-Sure — here is **the copy-paste version of the cleaned README content** (no extra commentary):
 
----
 
 ````markdown
 # Prompted Segmentation for Drywall QA
@@ -49,7 +47,7 @@ cd 10X
 pip install -r requirements.txt
 ````
 
----
+
 
 ## 📦 Dataset Setup
 
