@@ -1,5 +1,4 @@
 
-````markdown
 # Prompted Segmentation for Drywall QA
 
 *A text-conditioned segmentation model for drywall quality assurance that segments cracks and taping areas based on natural language prompts.*
@@ -44,7 +43,7 @@ Install dependencies:
 ```bash
 cd 10X
 pip install -r requirements.txt
-````
+
 
 
 
