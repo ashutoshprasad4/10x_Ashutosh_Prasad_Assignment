@@ -1,5 +1,4 @@
 
-
 ````markdown
 # Prompted Segmentation for Drywall QA
 
@@ -339,14 +338,4 @@ Check the original dataset & model licenses before commercial use.
 
 ---
 
-## 👤 Maintainer
 
-**10x Assignment – Ashutosh Prasad**
-For questions or issues, please refer to this README, `REPORT.md`, and logs, or reach out to the project maintainer.
-
-```
-
----
-
-If you want a shortened version (for GitHub or submission portals with word limits), just tell me.
-```
